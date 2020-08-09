@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/AngryPinchy/cse135.fun.git
+[remote "develop"]
+	url = https://github.com/AngryPinchy/cse135.fun.git
+	fetch = +refs/heads/*:refs/remotes/develop/*

@@ -1,0 +1,3 @@
+#!/bin/sh
+
+git --work-tree=/var/www -git-dir=/var/cse135.fun.git checkout -f
